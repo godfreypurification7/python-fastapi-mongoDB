@@ -1,6 +1,6 @@
-fastapi‑mongoDB – Overview & Purpose
+python-fastapi-mongoDB – Overview & Purpose
 
-fastapi‑mongoDB is a lightweight Python project combining FastAPI (a modern, high‑performance web framework) with MongoDB (a popular NoSQL database) to build a RESTful API that supports basic CRUD (Create, Read, Update, Delete) operations for a “todo” application. The repository structure isolates configuration, data models, routing logic, and schema serialization, making the project modular and easy to understand.
+python-fastapi-mongoDB is a lightweight Python project combining FastAPI (a modern, high‑performance web framework) with MongoDB (a popular NoSQL database) to build a RESTful API that supports basic CRUD (Create, Read, Update, Delete) operations for a “todo” application. The repository structure isolates configuration, data models, routing logic, and schema serialization, making the project modular and easy to understand.
 
 This setup is ideal for learning how to integrate FastAPI and MongoDB, or as a starting template for more complex applications. By relying on PyMongo (the official MongoDB driver) for database operations and using FastAPI’s asynchronous support, the project aims for simplicity, readability, and efficient API performance.
 
