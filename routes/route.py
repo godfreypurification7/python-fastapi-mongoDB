@@ -32,4 +32,3 @@ async def delete_todo(id:str):
     return {"message": "Todo deleted successfully"}
 
 
-# https://www.youtube.com/watch?v=398DuQbQJq0&list=PLK8U0kF0E_D6l19LhOGWhVZ3sQ6ujJKq_&index=5
